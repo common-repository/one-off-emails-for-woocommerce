@@ -1,0 +1,14 @@
+input[type="text"],
+input[type="email"],
+textarea {
+	width: 400px;
+}
+
+#wooe_send_email,
+#wooe_preview_email,
+#wooe_ajax_res_send_email {
+	margin-top: 20px;
+}
+.required {
+	color: red;
+}
